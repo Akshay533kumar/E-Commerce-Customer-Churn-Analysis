@@ -1,8 +1,3 @@
-Here is your **README.md content in pure copy-paste format**.
-No extra styling, no explanation — **just select all → copy → paste into GitHub**.
-
----
-
 # 📊 E-Commerce Customer Churn Analysis
 
 *A Complete MySQL Project with Database, Cleaning, Transformation & Churn Insights*
